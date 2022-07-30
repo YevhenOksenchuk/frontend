@@ -1,0 +1,23 @@
+{
+  "secretBackupPhrase": "Secret backup phrase",
+  "back": "back",
+  "backupDesc": "Your secret backup phrase makes it easy to back up and restore your account.",
+  "warning": "Warning",
+  "warningMsg": "Never divulge your backup phrase. Anyone with this passphrase can take possession of your assets.",
+  "tips": "Tips",
+  "tipsMsg1": "Save this phrase in the password manager.",
+  "tipsMsg2": "Write the phrase down on a piece of paper and keep it in a safe place.",
+  "tipsMsg3": "Learn the phrase by heart.",
+  "continue": "Continue",
+
+  "chooseWallet": "Choose wallet",
+  "chooseWalletNote1": "Note:",
+  "chooseWalletNote2": "If dropdown above is empty, please visit",
+  "chooseWalletNote3": "and do a login. After login, you have to go to Profile > Wallet and associate your wallet private key to your marketplace account. When you've done associating your marketplace account, please come back and try again.",
+  "useKeyToLogin": "Use key to login",
+
+  "login.title": "If you want to login, please enter your password",
+  "login.validation": "Must contain at least 6 characters, one uppercase, one lowercase, one number and one special case character (@$!-%*#?&)",
+  "login.error": "Invalid password",
+  "login.btn": "Enter"
+}

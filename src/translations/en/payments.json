@@ -1,0 +1,49 @@
+{
+  "payWithXlm": "Pay with XLM",
+  "noOffer": "No offer data",
+  "noOfferDesc": "It can happen if the page was refreshed and(or) the transaction successfully completed.",
+  "noPaymentsMethods": "No payments methods for your account",
+  "payWithOtherCrypto": "Pay with other Crypto",
+  "bankTransfer": "Bank transfer",
+
+  "checkout": "Checkout",
+
+  "tokensAmount": "Tokens amount",
+  "isAuthorizedOfferTrust": "The system is authorizing this transaction, it will take around 10-15 seconds.",
+  "confirmPurchase": "Confirm purchase",
+  "notEnoughXLM": "You don’t have enough XLM",
+  "topUpWallet": "Top up your wallet for more than",
+
+
+  "transactionCreatedFiat": "Transaction successfully created and waiting for bank payment",
+  "transactionCompleted": "Transaction successfully completed",
+  "tokenPurchased": "Token purchased",
+  "equivalent": "Equivalent",
+  "transactionFees": "Transaction Fees",
+  "TOTAL": "TOTAL",
+  "importantNote": "Important note",
+  "importantNoteDesc": "tokens have been reserved for you. If you fail to make the payment or change your mind after clicking the “Generate Receipt” button, please inform us immediately.",
+  "goToMyAssets": "Go to my assets",
+
+  "exchange": {
+    "title": "Convert your other crypto to XLM",
+    "youSend": "You send",
+    "youGet": "You get",
+    "minAmount": "Minimal exchange amount",
+    "copyright1": "I understand that the exchange is provided by Changelly service, and agree with Changelly",
+    "terms": "Terms and Conditions.",
+    "termsLink": "https://changelly.com/terms-of-use",
+    "copyright2": "The actual amount of the exchange may differ from the provided quote. Changelly may require additional KYC, including proof of source of funds.",
+    "makeDeposit": "Make deposit",
+
+    "exchangeTransaction": "Exchange transaction",
+    "payWithOtherCrypto": "Pay with other Crypto",
+
+    "desc1": "To buy security tokens with other cryptocurrencies, kindly convert it to XLM. XLM will be credited to your Stellar account",
+    "desc2": "Please choose which cryptocurrency you would like to invest and enter the amount.",
+    "desc3": "The cryptocurrency exchange service is provided by Changelly."
+  },
+
+
+  "amount": "amount"
+}
